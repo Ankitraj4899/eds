@@ -1,0 +1,16 @@
+.blogs {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 16px;
+  background: rgb(216, 208, 208);
+}
+
+.blog{
+  border: 1px solid green;
+  border-radius: 2rem;
+  padding: 1em;
+  margin: 1em;
+  background: #c2a1a1;
+  color: rgb(6, 3, 3);
+}
